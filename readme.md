@@ -1,7 +1,7 @@
 Cypress Automation
 
 Cypress is front end testing tool.
-It used javascript to write automated tests.
+It uses javascript to write automated tests.
 Build on node.js and comes packaged as npm nodule.
 It is different from selenium as selenium operate by running outside of browser but cypress engine directly operates inside the browser.
 It listens and modify the browser code at runtime by manipulating DOM.
